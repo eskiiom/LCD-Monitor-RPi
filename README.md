@@ -18,3 +18,6 @@ l'écran : http://www.bitwizard.nl/wiki/Lcd_protocol_1.6
 - Sur chaque écran est affiché la date et l'heure, car le but de l'écran est d'etre tout le temps allumé
 - Les infos système affichent quelques informations principales
 - Le lecteur radio permet de mettre en lecture ou pause, affiche la piste en cours et la durée écoulée/restante. Il permet aussi de gérer le volume.
+
+## How it started
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/esquimo_2ooo/7657068098/in/dateposted-public/" title="Rasberry Piiiiiii"><img src="https://live.staticflickr.com/8430/7657068098_0b48696ce5_c.jpg" width="600" height="800" alt="Rasberry Piiiiiii"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
